@@ -13,5 +13,5 @@ This project is just a demo how to use git
 // git repository
 
 // git checkout --<file>(but in my version they show git restore <file>) to discard changes in working directory
-
-//
+// git restore or git checkout -- use to clear diff in working directory
+// git reset to unstage file.
