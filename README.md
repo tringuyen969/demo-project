@@ -23,3 +23,7 @@ This project is just a demo how to use git
 A <---B
 git checkout A first and git merge B
 // git branch -D <branch> (delete branch)
+
+// git reset --soft -q <commit> to put commit back to staging area
+// git reset --mixed -q <commit> to put commit back to working directory
+// git reset --hard -q <commit> to delete commit

@@ -1,0 +1,14 @@
+{
+  "name": "git-1",
+  "version": "1.0.0",
+  "description": "This project is just a demo how to use git\r // git init\r // git status\r // git add ( + full ten file or only doc(.) to add all file)\r // git commit -m (-m + 'text' details of file)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
